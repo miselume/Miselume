@@ -3,8 +3,8 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <ul style="list-style-position: inside;">
+      <td align="left">
+        <ul>
           <li>🎮 I'm a game developer</li>
           <li>👨‍💻 I code for myself</li>
           <li>🔭 I’m currently working on Card game</li>
