@@ -7,7 +7,7 @@
         <ul style="list-style-position: inside;">
           <li>🎮 I'm a game developer</li>
           <li>👨‍💻 I code for myself</li>
-          <li>🔭 I’m currently working on card game</li>
+          <li>🔭 I’m currently working on Card game</li>
           <li>🌱 I’m currently learning C++</li>
           <li>🖥️ I primarily use C#</li>
         </ul>
