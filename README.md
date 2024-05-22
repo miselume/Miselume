@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Miselume/Miselume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul style="list-style-position: inside;">
+          <li>🎮 I'm a game developer</li>
+          <li>👨‍💻 I code for myself</li>
+          <li>🔭 I’m currently working on card game</li>
+          <li>🌱 I’m currently learning C++</li>
+          <li>🖥️ I primarily use C#</li>
+        </ul>
+      </td>
+      <td>
+        <a href="https://github.com/miselume/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miselume&layout=compact&langs_count=6" alt="Top Langs" width="400px">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
