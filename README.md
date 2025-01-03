@@ -1,15 +1,11 @@
 ## Stole my code please!
 
 <div align="center">
-  <table>
-    <tr>
-        <ul>
-          <li>I'm a professional slacker</li>
-          <li>I code, but I don't know why I do that</li>
-          <li>Currently, I'm doing something, but I also don't know what</li>
-          <li>Learning C++ to continue my desperation</li>
-          <li>Primarily using C# because I'm sucks at C++</li>
-        </ul>
-    </tr>
-  </table>
+      <td align="left">
+        - I'm a professional slacker<br>
+        - I code, but I don't know why I do that<br>
+        - Currently, I'm doing something, but I also don't know what<br>
+        - Learning C++ to continue my desperation<br>
+        - Primarily using C# because I'm not good at C++
+      </td>
 </div>
