@@ -3,7 +3,6 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left">
         <ul>
           <li>I'm a professional slacker</li>
           <li>I code, but I don't know why I do that</li>
@@ -11,7 +10,6 @@
           <li>Learning C++ to continue my desperation</li>
           <li>Primarily using C# because I'm sucks at C++</li>
         </ul>
-      </td>
     </tr>
   </table>
 </div>
