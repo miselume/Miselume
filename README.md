@@ -10,3 +10,7 @@
         </ul>
   </table>
 </div>
+
+---
+
+[![Skills](https://skillicons.dev/icons?i=ts,bash,cpp,go)](https://skillicons.dev)
